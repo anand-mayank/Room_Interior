@@ -1,0 +1,17 @@
+﻿Build started 31-05-2019 13:51:28.
+     1>Project "G:\mayank\cg project~\project\Room Interior\Room Interior.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Room Interior.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Room Interior.vcxproj -> G:\mayank\cg project~\project\Debug\Room Interior.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Room Interior.unsuccessfulbuild".
+         Touching "Debug\Room Interior.lastbuildstate".
+     1>Done Building Project "G:\mayank\cg project~\project\Room Interior\Room Interior.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
