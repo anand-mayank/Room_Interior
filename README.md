@@ -1,6 +1,16 @@
 # Room_Interior
 Room Interior Design based on Computer Graphics using Visual Studio 2010
 
+# Demo
+## Switch the Fan On and Off
+
+![Test_Image_1](https://i.imgur.com/vItnpr1.png)
+#### The fan animation is triggered by Pop up menu options. The Fan On option starts the animation of the fan and the Fan Off option stops the animation of the fan.
+## Movement inside the Room
+
+![Test_Image_1](https://i.imgur.com/waWI7bG.png)
+#### The keyboard keys ‘w’, ‘s’, ‘a’, ‘d’ , ↑ and ↓ for movement inside the room.
+
 # Abstract
 This project encompasses most of the essential aspects of OpenGL. 
 From Drawing 3D graphics to Viewing in Perspective mode to using Input from the keyboard and mouse to interact with the 3D Objects. 
